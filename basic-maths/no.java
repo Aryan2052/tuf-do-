@@ -24,6 +24,7 @@ class no{
         // Function call to get count of digits in n
         int ans = sol.countDigit(n);
         System.out.println("The count of digits in the given number is: " + ans);
+        s.close();
 
     }
     
