@@ -1,4 +1,4 @@
-class Solution13 {
+public class pat13 {
     public void pattern13(int n) {
 
         int k =1;
