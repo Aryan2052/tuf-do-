@@ -18,7 +18,7 @@ public class pat13 {
         int N = 5;
 
         // Create an instance of Solution class
-        Solution13 sol = new Solution13();
+        pat13 sol = new pat13();
 
         sol.pattern13(N);
     }
